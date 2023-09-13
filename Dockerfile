@@ -6,7 +6,7 @@ RUN git clone https://github.com/cathugger/mkp224o.git mkp224o
 
 WORKDIR /mkp224o
 
-ARG GIT_SHA=d612b74842af053c1970ee44c547e0c7332e2a53
+ARG GIT_SHA=870c089a3c437005818a78b132f755f4796d6781
 
 RUN git checkout $GIT_SHA
 
