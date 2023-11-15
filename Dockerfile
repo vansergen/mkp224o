@@ -1,4 +1,4 @@
-FROM alpine:3.18.3 as builder
+FROM alpine:3.18.4 as builder
 
 RUN apk add --no-cache autoconf build-base gcc git libsodium-dev make
 
@@ -20,7 +20,7 @@ RUN ./configure $FLAGS $FILTERS
 
 RUN make
 
-FROM alpine:3.18.3 as mkp224o
+FROM alpine:3.18.4 as mkp224o
 
 RUN apk add --no-cache libsodium
 
