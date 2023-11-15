@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.2](https://github.com/vansergen/mkp224o/compare/v1.0.1...v1.0.2) (2023-11-15)
+
+### Dependencies
+
+- use the `alpine:3.18.4` image ([2002673](https://github.com/vansergen/mkp224o/commit/200267369e81f6ed1915f844ff41b6aeb5b48a80))
+
 ## [1.0.1](https://github.com/vansergen/mkp224o/compare/v1.0.0...v1.0.1) (2023-09-13)
 
 ### Build System
