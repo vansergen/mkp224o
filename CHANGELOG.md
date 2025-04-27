@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.3](https://github.com/vansergen/mkp224o/compare/v1.0.2...v1.0.3) (2025-04-27)
+
+### Build System
+
+- update ci config ([bb07617](https://github.com/vansergen/mkp224o/commit/bb076174efe935edb6f9c9f90dae1accea9d8fd8))
+
+### Dependencies
+
+- update alpine to v3.21.3 ([c2165a8](https://github.com/vansergen/mkp224o/commit/c2165a832568f0337f45d9e381cb3f8346595786))
+
 ## [1.0.2](https://github.com/vansergen/mkp224o/compare/v1.0.1...v1.0.2) (2023-11-15)
 
 ### Dependencies
