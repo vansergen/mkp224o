@@ -23,7 +23,8 @@
     "preinstall:clean": "rm -rf node_modules package-lock.json",
     "prepare": "husky",
     "prettier": "prettier -c .",
-    "prettier:write": "prettier -c -w ."
+    "prettier:write": "prettier -c -w .",
+    "test": "docker build -t ghcr.io/vansergen/mkp224o:test ."
   },
   "devDependencies": {
     "@binden/commitlint-config": "^2.1.0",
