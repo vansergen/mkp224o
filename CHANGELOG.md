@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.4](https://github.com/vansergen/mkp224o/compare/v1.0.3...v1.0.4) (2025-04-27)
+
+### Build System
+
+- update ci actions config ([b4dd6b0](https://github.com/vansergen/mkp224o/commit/b4dd6b0e6eec45b561917472624e90c68f483059))
+
 ## [1.0.3](https://github.com/vansergen/mkp224o/compare/v1.0.2...v1.0.3) (2025-04-27)
 
 ### Build System
